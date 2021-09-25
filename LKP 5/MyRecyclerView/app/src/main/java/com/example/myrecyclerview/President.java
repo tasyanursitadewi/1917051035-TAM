@@ -11,19 +11,19 @@ public class President {
         this.name = name;
     }
 
-    public String getRemarks(){
+    public String getRemarks() {
         return remarks;
     }
 
-    public void setRemarks(String name) {
+    public void setRemarks(String remarks) {
         this.remarks = remarks;
     }
 
-    public String getPhoto(){
+    public String getPhoto() {
         return photo;
     }
 
-    public void setPhoto(String name) {
+    public void setPhoto(String photo) {
         this.photo = photo;
     }
 }
